@@ -6,6 +6,8 @@
 `simulator = lidisa.dsampler(training_image, iterations=5')``
 `simulations = [x for x in simulator]`
 
+![Simulation demo](data/animation_short.gif)
+
 Currently, `lidisa` supports only categorical-valued images. Images with continuous values will be supported in a future release. See the attached Jupyter notebook for a detailed example workflow using `lidisa` to conduct stochastic simulation.
 
 For questions, comments or concerns please email Christopher Krapu at `ckrapu@gmail.com`.
