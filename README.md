@@ -10,6 +10,6 @@ simulations = [x for x in simulator]
 
 ![Simulation demo](data/animation_short.gif)
 
-Currently, `lidisa` supports only categorical-valued images. Images with continuous values will be supported in a future release. See the attached Jupyter notebook for a detailed example workflow using `lidisa` to conduct stochastic simulation.
+Currently, `lidisa` supports only categorical-valued images. Images with continuous values will be supported in a future release. See the attached Jupyter notebook for a detailed example workflow using `lidisa` to conduct stochastic simulation. To install this repository, clone it and run `python setup.py install` from within the directory.
 
 For questions, comments or concerns please email Christopher Krapu at `ckrapu@gmail.com`.
