@@ -4,7 +4,7 @@
 
 ```python
 training_image = ...
-simulator = lidisa.dsampler(training_image, iterations=5')
+simulator = lidisa.dsampler(training_image, iterations=5)
 simulations = [x for x in simulator]
 ```
 
